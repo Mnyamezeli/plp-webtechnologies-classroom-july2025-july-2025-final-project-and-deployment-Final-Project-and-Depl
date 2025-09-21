@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Contact Us | Sneaker Spa.</title>
+  </head>
+  <body>
+    <main class="contact">
+      <h1>Contact Us</h1>
+      <form id="contactForm">
+        <label for="name">Name</label>
+        <input type="text" id="name" required />
+
+        <label for="email">Email</label>
+        <input type="email" id="email" required />
+
+        <label for="message">Message</label>
+        <textarea id="message" required></textarea>
+
+        <button type="submit">Send</button>
+      </form>
+      <section class="contact-info">
+        <h2>Our Contact Information</h2>
+        <ul>
+          <li>
+            <strong>Email:</strong>
+            <a href="mailto:info@sneaker.co.za">info@sneaker.co.za</a>
+          </li>
+          <li>
+            <strong>Phone/WhatsApp:</strong>
+            <a href="tel:0640307021">0640307021</a>
+          </li>
+          <li>
+            <strong>Web:</strong>
+            <a href="https://www.sneakerspa.co.za" target="_blank"
+              >www.sneakerspa.co.za</a
+            >
+          </li>
+        </ul>
+      </section>
+      <p id="formMessage"></p>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+      <p>&copy; 2025 Sneaker Spa. | Designed with ❤️</p>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
