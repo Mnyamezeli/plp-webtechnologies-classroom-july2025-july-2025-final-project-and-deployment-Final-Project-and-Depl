@@ -2,6 +2,14 @@
 
 Welcome to the Sneaker Spa website! This project is a modern, responsive web presence for Sneaker Spa, a business specializing in sneaker care and cleaning services.
 
+---
+
+## 🌐 Live Website
+
+Access the deployed website here: [https://github.com/Mnyamezeli/Sneaker-Spa_Project..git]
+
+---
+
 ## Features
 
 - Home, About, Services, Gallery, and Contact pages
@@ -35,12 +43,12 @@ images/
 - **Phone/WhatsApp:** 0640307021
 - **Website:** [www.sneakerspa.co.za](https://www.sneakerspa.co.za)
 
-## How to Use
+## Getting Started
 
-1. Clone or download this repository.
-2. Open `index.html` in your web browser to view the site locally.
-3. Edit the HTML, CSS, or JS files to customize as needed.
+1. **Clone or download this repository.**
+2. **Open `index.html` in your web browser** to view the site locally.
+3. **Edit the HTML, CSS, or JS files** to customize as needed.
 
 ## License
 
-This project is for educational and demonstration purposes.
+This project is for educational and demonstration purposes only.
